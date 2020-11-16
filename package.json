@@ -1,0 +1,26 @@
+{
+  "name": "gamefaqs-scaper",
+  "version": "1.0.0",
+  "description": "Scrapes game titles, release dates, and other assorted data for a selected platform from GameFAQs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js --usedevelopersplatform"
+  },
+  "author": "pGooch",
+  "license": "ISC",
+  "dependencies": {
+    "asciichart": "^1.5.25",
+    "camelcase": "^6.2.0",
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "chrono-node": "^2.1.9",
+    "clear": "^0.1.0",
+    "inquirer": "^7.3.3",
+    "minimist": "^1.2.5",
+    "node-fetch": "^2.6.1",
+    "objects-to-csv": "^1.3.6",
+    "ora": "^5.1.0",
+    "querystring": "^0.2.0"
+  }
+}

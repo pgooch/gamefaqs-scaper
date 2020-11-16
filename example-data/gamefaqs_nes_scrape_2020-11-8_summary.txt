@@ -1,0 +1,82 @@
+Summary of /Users/phillipgooch/Development/game-list-ripper/gamefaqs_nes_scrape_2020-11-8.json
+
+Found 1,637 titles accross 3,778 releases.
+
+Releases by region
+JP (1,485) █████████████████████████████████████████████████████████████▏
+US (1,200) █████████████████████████████████████████████████▍
+  EU (609) █████████████████████████▏
+  AU (274) ███████████▍
+  AS (140) █████▊
+   KO (52) ██▎
+   SA (18) ▊
+
+Releases by Year
+ 1983 (14) █▉
+ 1984 (23) ███▏
+ 1985 (94) ████████████▌
+1986 (122) ████████████████▎
+1987 (199) ██████████████████████████▍
+1988 (241) ███████████████████████████████▉
+1989 (316) █████████████████████████████████████████▉
+1990 (461) █████████████████████████████████████████████████████████████▏
+1991 (401) █████████████████████████████████████████████████████▏
+1992 (325) ███████████████████████████████████████████▏
+1993 (189) █████████████████████████▏
+ 1994 (43) █████▊
+  1995 (8) █▏
+  1996 (1) ▎
+  2002 (2) ▍
+  2005 (1) ▎
+ 2006 (48) ██████▍
+2007 (153) ████████████████████▍
+ 2008 (99) █████████████▎
+ 2009 (36) ████▊
+ 2010 (30) ████
+ 2011 (55) ███████▍
+ 2012 (82) ██████████▉
+2013 (286) █████████████████████████████████████▉
+2014 (213) ████████████████████████████▎
+ 2015 (82) ██████████▉
+ 2016 (39) █████▎
+ 2017 (12) █▋
+ 2018 (61) ████████▎
+ 2019 (45) ██████
+ 2020 (11) █▌
+           And 86 releases without dates.
+
+Most prolific publishers; Nintendo (746), Konami (264), Capcom (208), 
+Jaleco Entertainment (103), Taito Corporation (101), SunSoft (99), 
+Namco (87), Bandai (80), Arc System Works (75), Hudson (68), 
+Sachen (66), Tecmo (61), Bandai Namco Games (58), Acclaim (53), 
+Data East (48), Kemco (43), HAL Labs (39), Mindscape (38), Irem (35), LJN Ltd. (33).
+
+Most prolific developers; TOSE (107), Konami (78), Nintendo (56), 
+Rare Ltd. (47), Thin Chen Enterprises (45), Namco (41), Capcom (37), 
+Beam Software (31), Micronics (28), SunSoft (23), 
+Human Entertainment (23), Natsume (21), Hudson (20), 
+Imagineering Inc (20), Tecmo (19), Taito Corporation (19), HAL Labs (19).
+
+Most prolific genres; Action (669), Sports (219), Miscellaneous (199), 
+Role-Playing (155), Puzzle (113), Strategy (77), Action Adventure (71), 
+Adventure (58), Racing (50), Simulation (25), Hardware (1).
+
+Metacritic Score Breakdown
+And 1,637 releases without metacritic scores.
+
+Most represented franchises; 1942 (1), Mega Man (6), Mario (5), 
+Nintendo Sports (5), Donkey Kong (4), River City / Kunio-kun (3), Castlevania (3).
+
+Most common ESRB descriptors; Mild Fantasy Violence (22), 
+Fantasy Violence (13), Mild Violence (13), Comic Mischief (7), 
+Mild Cartoon Violence (7), Violence (3), Suggestive Themes (2), Cartoon Violence (2).
+
+Player Count Breakdown
+1 Player (316) █████████████████████████████████████████████████████████▏
+2 Player (185) █████████████████████████████████▌
+  3 Player (7) █▍
+ 4 Player (14) ██▋
+  6 Player (2) ▌
+  8 Player (3) ▋
+               And 1,110 titles without local player data.
+
